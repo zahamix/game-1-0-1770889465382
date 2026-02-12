@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "game-wrapper-template",
-    "slug": "game-wrapper-template",
+    "name": "1.0",
+    "slug": "game-1-0-1770889465382",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,7 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "run.gummy.10"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +20,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "run.gummy.10"
     },
     "web": {
       "output": "static",
